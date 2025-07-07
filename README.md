@@ -11,7 +11,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and exper
 - Resume download functionality
 
 ## 🚀 Live Demo
-[View Portfolio](https://your-username.github.io/portfolio)
+[View Portfolio](https://chmanish2003.github.io/Portfolio/)
 
 ## 🛠️ Technologies Used
 - HTML5
